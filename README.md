@@ -1,1 +1,1 @@
-support chrome version 103
+tested => chrome version 103
